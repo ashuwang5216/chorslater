@@ -1,0 +1,3 @@
+interface:
+  display_name: "Low Resource Translation"
+  short_description: "Improve low-resource and mixed-language translation accuracy"
